@@ -45,7 +45,7 @@ int main()
   cout << "Det längsta ordet var \"" << longest << "\" med " << longest.size() << " bokstäver." << endl;
   cout << "Medelordlängden var " << totalword << " bokstäver." << endl;
 
-
+    cout << "hejsan" << endl;
 
 
 
